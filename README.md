@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kyohei-Kondo-piee&theme=onedark)](https://github.com/Kyohei-Kondo-piee/github-profile-trophy)
 <!--
 **Kyohei-Kondo-piee/Kyohei-Kondo-piee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
