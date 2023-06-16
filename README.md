@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyohei-Kondo-piee)](https://github.com/Kyohei-Kondo-piee/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kyohei-Kondo-piee&theme=onedark)](https://github.com/Kyohei-Kondo-piee/github-profile-trophy)
 <!--
 **Kyohei-Kondo-piee/Kyohei-Kondo-piee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
